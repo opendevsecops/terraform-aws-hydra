@@ -1,0 +1,4 @@
+.terraform
+remote.tf
+modules/*/build
+terraform.tfstate.*.backup
