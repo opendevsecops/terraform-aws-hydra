@@ -5,7 +5,7 @@
 
 Terraform module which deploys a scaleable security automation platform for security testnig and research.
 
-> WARNING: work in progress
+> **WARNING**: work in progress
 
 ## Why Hydra
 
